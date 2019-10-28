@@ -1,0 +1,4 @@
+if(!require(fBasics)) {install.packages("fBasics")}
+> require(fBasics)
+> variavel = rt(100, 1)
+> basicStats(variavel)
